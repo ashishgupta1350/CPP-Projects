@@ -1,5 +1,5 @@
 # A simple notepad application with QT and C++. 
-#### Allows users to save and write files. Refer to img folder and video tutorial for instructions on making this :D
+#### Allows users to save and write files. Refer to video tutorial for instructions on making this :D This is a personal repo. Images and running examples will be added soon.
 
 
 ### Tutorial
